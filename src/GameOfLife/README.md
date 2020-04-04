@@ -1,7 +1,7 @@
 # GameOfLife
 Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in [Processing](https://processing.org/)
 
-![Screenshot](https://github.com/James-P-D/GameOfLife/blob/master/screenshot.gif)
+![Screenshot](https://github.com/James-P-D/ProcessingDump/blob/master/src/GameOfLife/screenshot.gif)
 
 ## Instructions
 
