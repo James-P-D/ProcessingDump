@@ -1,7 +1,7 @@
 # LangtonsAnt
 Implementation of [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant) in [Processing](https://processing.org/)
 
-![Screenshot](https://github.com/James-P-D/LangtonsAnt/blob/master/screenshot.gif)
+![Screenshot](https://github.com/James-P-D/ProcessingDump/blob/master/src/LangtonsAnt/screenshot.gif)
 
 ## Instructions
 
